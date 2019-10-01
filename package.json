@@ -1,0 +1,19 @@
+{
+  "name": "1.7_0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-s3": "^2.0.5",
+    "aws-sdk": "^2.536.0"
+  }
+}
